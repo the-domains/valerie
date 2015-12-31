@@ -1,0 +1,28 @@
+name: Valerie
+favicon: null
+layout_spectrum: 0.15388540923595428
+typography_spectrum: 0.9513711254112422
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.43128955317661166
+  lightness: 0.942628238350153
+  saturation: 0.7425598704721779
+  rhythmicContrast: 0.9467829971108586
+purpose: []
